@@ -10,6 +10,7 @@ Greetings! 👋 I'm Elias, a dedicated Android developer fueled by a passion for
 
 My journey in mobile development has been exciting,exploring the capabilities that cell phones provide us today and the capabilities they may provide us in the future always inspires me. I'm driven by the challenge of building innovative apps that can change the world!
 
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
 ## 🛠 Tech Stack
 
