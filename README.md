@@ -67,22 +67,22 @@ My journey in mobile development has been exciting,exploring the capabilities th
 ## Certificates
 
 <a href="https://codigofacilito.com/certificates/100366">
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="50" height="50" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="100" height="100" />
 </a>
 <a href="https://codigofacilito.com/certificates/100510">
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="100" height="100" />
 </a>
 <a href="https://codigofacilito.com/certificates/100624">
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-plain.svg" />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-plain.svg" width="100" height="100" />
 </a>
 <a href="https://codigofacilito.com/certificates/100568">
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="100" height="100"/>
 </a>
 <a href="https://codigofacilito.com/certificates/100390">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="Texto alternativo">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="Texto alternativo" width="100" height="100">
 </a>
 <a href="https://codigofacilito.com/certificates/100652">
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" width="100" height="100"/>
 </a>
 
 
