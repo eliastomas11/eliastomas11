@@ -43,6 +43,7 @@ My journey in mobile development has been exciting,exploring the capabilities th
 - Retrofit, OkHttp3
 - Gson, Moshi
 - MySQL
+- GitHub Actions CI/CD
 
 
 ## Projects
