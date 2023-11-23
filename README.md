@@ -37,7 +37,7 @@ My journey in mobile development has been exciting,exploring the capabilities th
 - Clean Architecture
 - Firebase
 - SOLID
-- Testing
+- Testing - JUnit4,Espresso,Compose,Roboeletric,Mockk
 - Hilt
 - Room 
 - Retrofit, OkHttp3
