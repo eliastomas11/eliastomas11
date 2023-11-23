@@ -63,8 +63,27 @@ My journey in mobile development has been exciting,exploring the capabilities th
 
 ## Associate Degree 🕮
  I'm currently studying Mobile Development at Universidad Nacional de La Matanza in Buenos Aires, Argentina.
+ 
 ## Certificates
 
+<a href="https://codigofacilito.com/certificates/100366">
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" />
+</a>
+<a href="https://codigofacilito.com/certificates/100510">
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+</a>
+<a href="https://codigofacilito.com/certificates/100624">
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-plain.svg" />
+</a>
+<a href="https://codigofacilito.com/certificates/100568">
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+</a>
+<a href="https://codigofacilito.com/certificates/100390">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="Texto alternativo">
+</a>
+<a href="https://codigofacilito.com/certificates/100652">
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" />
+</a>
 
 
 ## 🔗 Links
