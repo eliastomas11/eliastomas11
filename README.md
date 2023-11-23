@@ -66,10 +66,8 @@ My journey in mobile development has been exciting,exploring the capabilities th
  
 ## Certificates
 
-[![Logo](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg)](https://codigofacilito.com/certificates/100366)
-
 <a href="https://codigofacilito.com/certificates/100366">
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="50" height="50" />
 </a>
 <a href="https://codigofacilito.com/certificates/100510">
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
