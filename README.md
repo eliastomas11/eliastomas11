@@ -1,15 +1,54 @@
-<h1 align="center">Hi 👋, I'm Elias</h1>
-<h3 align="center">A passionate Android Developer</h3>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/elias-guerra-android-dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="elias-guerra-android-dev" height="30" width="40" /></a>
-</p>
+# Hi, I'm Elias! 👋
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=eliastomas11&show_icons=true&locale=en&layout=compact" alt="eliastomas11" /></p>
+![Logo](https://i.imgur.com/ZVwDF1v.png)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=eliastomas11&show_icons=true&locale=en" alt="eliastomas11" /></p>
+
+## 🚀 About Me
+Greetings! 👋 I'm Elias, a dedicated Android developer fueled by a passion for crafting amazing apps and incredible mobile experiences. With over 1 year of hands-on expertise, I am always striving to find the best solutions to every problem.
+
+My journey in mobile development has been exciting,exploring the capabilities that cell phones provide us today and the capabilities they may provide us in the future always inspires me. I'm driven by the challenge of building innovative apps that can change the world!
+
+
+## 🛠 Tech Stack
+
+- Android Studio
+- Gradle
+- Kotlin
+- Java
+- Android Jetpack / Architecture Components
+- Compose
+- Views (XML)
+- Kotlin Flows
+- MVVM
+- LiveData
+- Kotlin Flows
+- RxJava
+- Clean Architecture
+- Firebase
+- SOLID
+- Testing
+- Hilt
+- Room 
+- Retrofit, OkHttp3
+- Gson, Moshi
+- MySQL
+
+
+
+
+
+
+## Associate Degree 🕮
+ I'm currently studying Mobile Development at Universidad Nacional de La Matanza in Buenos Aires, Argentina.
+## Certificates
+
+
+
+## 🔗 Links
+
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elias-guerra-android-dev/)
+[![gmail](https://img.shields.io/badge/gmail-1DA1F3?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eliastomasguerra@gmail.com)
+
 
