@@ -45,7 +45,19 @@ My journey in mobile development has been exciting,exploring the capabilities th
 - MySQL
 
 
+## Projects
 
+[![Logo](https://i.imgur.com/9P0okH7.jpg)](https://github.com/eliastomas11/Movie-Sage#readme)
+
+[![Logo](https://i.imgur.com/umUOXNE.png?1)](https://github.com/eliastomas11/App-Astral-Journey#readme)
+
+
+[![Logo](https://i.imgur.com/xcK6Fuy.png)](https://github.com/eliastomas11/App-Famous-Coach#readme)
+
+
+[![Logo](https://i.imgur.com/WqPmITq.png)](https://github.com/eliastomas11/App-Home-Chef#readme)
+
+[![Logo](https://i.imgur.com/4zDJLON.jpg)](https://github.com/eliastomas11/App-Jet-X-Change#readme)
 
 
 
